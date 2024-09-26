@@ -1,6 +1,7 @@
 # Project Migration Notice
----
-This project has been moved to [BlackBlazent](https://github.com/BlackBlazent/BlackMusic-BlackBlazent.git) for continued development and maintenance. As a result, this repository has been archived and is no longer actively maintained. For the latest updates, contributions, and ongoing development, please visit the new repository under our organization account.
+
+### September 26, 2024
+This project has been deprecated and moved to [BlackBlazent](https://github.com/BlackBlazent/BlackMusic-BlackBlazent.git) for continued development and maintenance. As a result, this repository has been archived and is no longer actively maintained. For the latest updates, contributions, and ongoing development, please visit the new repository under our organization account.
 
 <!--![Logo](https://github.com/LoneStamp/BlackMusic/blob/main/.github/public_assets/bmusic-banner.png) 
 <br/>
